@@ -1,9 +1,5 @@
-### Olá, sou Alan Castro
+### Olá, seja bem-vindo! Me chamo Alan.
 
-
-**alancastrocontato/alancastrocontato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Open to opportunities
 - 👨‍🎓 Graduate in IT Managementt ...
