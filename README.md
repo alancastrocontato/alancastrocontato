@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo! Me chamo Alan.
+### Olá! Eu sou o Alan.
 
 
 - 🔭 Open to opportunities
