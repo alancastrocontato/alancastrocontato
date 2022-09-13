@@ -9,7 +9,7 @@
 * Focused on software quality
 * Graduate in IT Managementt
 * Studying git and ruby right now
-* [Current project on github](https://www.linkedin.com/in/alanricardocastro")
+* [Current project on github](https://github.com/alanricardocastro/ruby-course)
 
 <a href="https://www.linkedin.com/in/alanricardocastro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
