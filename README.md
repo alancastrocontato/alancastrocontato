@@ -1,4 +1,7 @@
 
+
+
+  
 # Hello! My name is Alan
 
 
@@ -10,7 +13,14 @@
 * [Current project on githuh](https://www.linkedin.com/in/alanricardocastro")
 
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanricardocastro&show_icons=true&theme=ocean_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanricardocastro&card_width=250&&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alanricardocastro&card_width=250&&layout=compact&theme=ocean_dark)
+
+
+<a href="https://www.linkedin.com/in/alanricardocastro"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
+  
+
 
 
