@@ -1,10 +1,10 @@
-### Olá! Eu sou o Alan.
+### Hello! My name is alan
 
 
-- Open to opportunities
-- Graduate in IT Managementt ...
-- Goal to work and have a career in software quality assurance
-- Knowledge of html, css and ruby
-- Studying git and ruby language and 
-- <a href="https://www.linkedin.com/in/alanricardocastro">Linkedin</a>
+- 🔭 Open to opportunities
+- Focused on software quality
+- 👨‍🎓 Graduate in IT Managementt
+-  Working and having a career in software quality is my goal
+- 🌱 Studying git and ruby language
+- 📫 <a href="https://www.linkedin.com/in/alanricardocastro">Linkedin</a>
 
