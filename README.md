@@ -15,8 +15,8 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanricardocastro&show_icons=true&theme=ocean_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alanricardocastro&card_width=250&&layout=compact&theme=ocean_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alanricardocastro&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=alanricardocastro&card_width=250&&layout=compact&theme=github_dark)
 
 <p>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
